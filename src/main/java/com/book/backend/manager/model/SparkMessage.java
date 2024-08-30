@@ -6,8 +6,6 @@ import com.book.backend.manager.model.response.SparkResponseFunctionCall;
 
 /**
  * 消息
- *
- * @author briqt
  */
 public class SparkMessage {
 

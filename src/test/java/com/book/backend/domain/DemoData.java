@@ -5,10 +5,6 @@ import lombok.Data;
 
 import java.util.Date;
 
-/**
- * @author <a href="https://github.com/luoye6">小白条
- * @from <a href="https://luoye6.github.io/"> 个人博客
- */
 @Data
 public class DemoData {
     @ExcelProperty(value="整数",index = 0)

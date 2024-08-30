@@ -22,8 +22,6 @@ import java.util.Map;
 
 /**
  * SparkConsoleListener
- *
- * @author briqt
  */
 public class SparkConsoleListener extends SparkBaseListener {
     private static final Logger logger = LoggerFactory.getLogger(SparkConsoleListener.class);

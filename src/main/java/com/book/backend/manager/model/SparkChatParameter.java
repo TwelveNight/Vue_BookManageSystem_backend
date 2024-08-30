@@ -6,8 +6,6 @@ import java.io.Serializable;
 
 /**
  * $.parameter.chat
- *
- * @author briqt
  */
 public class SparkChatParameter implements Serializable {
     private static final long serialVersionUID = -1815416415486571475L;

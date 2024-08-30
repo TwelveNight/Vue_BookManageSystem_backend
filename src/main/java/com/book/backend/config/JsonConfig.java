@@ -9,9 +9,6 @@ import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
 
 /**
  * Spring MVC Json 配置
- *
- * @author <a href="https://github.com/luoye6">程序员小白条</a>
- * 
  */
 @JsonComponent
 public class JsonConfig {

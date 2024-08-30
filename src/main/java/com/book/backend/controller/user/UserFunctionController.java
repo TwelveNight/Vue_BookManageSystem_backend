@@ -13,9 +13,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 import java.util.List;
 
-/**
- * @author 程序员小白条
- */
 @RestController
 @RequestMapping("/user")
 public class UserFunctionController {

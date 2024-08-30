@@ -9,9 +9,6 @@ package com.book.backend.utils;
 import java.util.Scanner;
 
 
-/**
- * @author 程序员小白条
- */
 public class Utility {
     /**
      * 静态属性

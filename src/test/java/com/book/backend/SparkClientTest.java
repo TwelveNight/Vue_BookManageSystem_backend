@@ -24,8 +24,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * SparkClientTest
- *
- * @author briqt
  */
 public class SparkClientTest {
 

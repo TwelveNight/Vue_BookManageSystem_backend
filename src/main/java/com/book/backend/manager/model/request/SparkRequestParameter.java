@@ -7,8 +7,6 @@ import java.io.Serializable;
 
 /**
  * $.parameter
- *
- * @author briqt
  */
 public class SparkRequestParameter implements Serializable {
     private static final long serialVersionUID = 4502096141480336425L;

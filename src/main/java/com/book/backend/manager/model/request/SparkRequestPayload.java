@@ -7,8 +7,6 @@ import java.io.Serializable;
 
 /**
  * $.payload
- *
- * @author briqt
  */
 public class SparkRequestPayload implements Serializable {
     private static final long serialVersionUID = 2084163918219863102L;

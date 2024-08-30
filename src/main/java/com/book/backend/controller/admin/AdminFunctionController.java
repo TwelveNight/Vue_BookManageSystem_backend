@@ -18,9 +18,6 @@ import java.io.IOException;
 import java.util.List;
 
 
-/**
- * @author 程序员小白条
- */
 @RestController
 @RequestMapping("admin")
 public class AdminFunctionController {

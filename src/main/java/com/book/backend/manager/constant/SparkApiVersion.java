@@ -2,9 +2,6 @@ package com.book.backend.manager.constant;
 
 /**
  * SparkApiVersion
- *
- * @author briqt
- * @date 2023/8/31
  */
 public enum SparkApiVersion {
 

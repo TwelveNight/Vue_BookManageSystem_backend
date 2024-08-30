@@ -7,8 +7,6 @@ import java.util.Date;
 import lombok.Data;
 
 /**
- *
- * @author 程序员小白条
  * @TableName t_users
  */
 @TableName(value ="t_users")

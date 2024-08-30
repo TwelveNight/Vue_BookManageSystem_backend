@@ -7,8 +7,6 @@ import java.io.Serializable;
 
 /**
  * $.payload.usage.text
- *
- * @author briqt
  */
 public class SparkTextUsage implements Serializable {
     private static final long serialVersionUID = 8295933047877077971L;

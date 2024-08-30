@@ -20,8 +20,6 @@ import java.util.*;
 
 /**
  * XfSparkClient
- *
- * @author briqt
  */
 public class SparkClient {
 

@@ -31,9 +31,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * @author 程序员小白条
  * @description 针对表【t_admins】的数据库操作Service实现
- * @createDate 2023-02-03 20:01:01
  */
 @Service
 public class AdminsServiceImpl extends ServiceImpl<AdminsMapper, Admins>

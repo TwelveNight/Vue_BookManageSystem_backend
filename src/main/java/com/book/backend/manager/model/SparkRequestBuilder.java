@@ -13,8 +13,6 @@ import java.util.List;
 
 /**
  * SparkRequestBuilder
- *
- * @author briqt
  */
 public class SparkRequestBuilder {
     private static final Logger logger = LoggerFactory.getLogger(SparkRequestBuilder.class);

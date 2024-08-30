@@ -7,9 +7,6 @@ import java.util.Map;
 
 /**
  * SparkFunctionBuilder
- *
- * @author briqt
- * @date 2023/11/25
  */
 public class SparkFunctionBuilder {
 

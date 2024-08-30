@@ -2,8 +2,6 @@ package com.book.backend.manager.constant;
 
 /**
  * 消息角色常量
- *
- * @author briqt
  */
 public interface SparkMessageRole {
 

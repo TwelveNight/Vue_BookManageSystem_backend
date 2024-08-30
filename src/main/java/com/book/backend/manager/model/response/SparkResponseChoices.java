@@ -7,8 +7,6 @@ import java.util.List;
 
 /**
  * $.payload.choices
- *
- * @author briqt
  */
 public class SparkResponseChoices implements Serializable {
     private static final long serialVersionUID = 3908073548592366629L;

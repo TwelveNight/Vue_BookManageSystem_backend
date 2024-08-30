@@ -14,12 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- *
  * JWT工具类
- *
- * @author xiaobaitiao
- *
- *
  */
 @Component
 public class JwtKit {

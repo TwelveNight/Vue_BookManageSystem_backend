@@ -11,9 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
 
-/**
- * @author 程序员小白条
- */
+
 @RestController
 @RequestMapping("/bookadmin")
 public class BookAdminLoginController {

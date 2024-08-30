@@ -20,8 +20,6 @@ import java.util.List;
 
 /**
  * SparkBaseListener
- *
- * @author briqt
  */
 public class SparkBaseListener extends WebSocketListener {
     private static final Logger logger = LoggerFactory.getLogger(SparkBaseListener.class);

@@ -35,9 +35,6 @@ import static com.book.backend.constant.ChatConstant.HALL_CHAT;
 import static com.book.backend.constant.ChatConstant.PRIVATE_CHAT;
 
 
-/**
- * @author qimu
- */
 @Component
 @Slf4j
 @ServerEndpoint(value = "/websocket/{userId}", configurator = HttpSessionConfigurator.class)

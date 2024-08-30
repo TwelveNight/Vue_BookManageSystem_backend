@@ -6,8 +6,6 @@ import java.util.Map;
 
 /**
  * $.payload.functions.text
- *
- * @author briqt
  */
 public class SparkRequestFunctionParameters implements Serializable {
 

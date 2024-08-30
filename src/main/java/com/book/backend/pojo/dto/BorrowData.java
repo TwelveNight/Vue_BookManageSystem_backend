@@ -5,9 +5,6 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author 程序员小白条
- */
 @Data
 public class BorrowData implements Serializable {
     /**

@@ -5,9 +5,6 @@ import java.io.UnsupportedEncodingException;
 import java.util.Random;
 
 
-/**
- * @author 程序员小白条
- */
 public class RandomNameUtils {
 
     /**

@@ -7,9 +7,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import java.util.List;
 
 /**
-* @author xiaobaitiao
 * @description 针对表【t_ai_intelligent】的数据库操作Service
-* @createDate 2023-08-27 18:44:26
 */
 public interface AiIntelligentService extends IService<AiIntelligent> {
         /**

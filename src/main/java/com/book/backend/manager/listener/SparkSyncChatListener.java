@@ -14,8 +14,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * SparkSyncChatListener
- *
- * @author briqt
  */
 public class SparkSyncChatListener extends SparkBaseListener {
     private static final Logger logger = LoggerFactory.getLogger(SparkSyncChatListener.class);

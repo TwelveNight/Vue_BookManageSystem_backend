@@ -4,8 +4,6 @@ import java.io.Serializable;
 
 /**
  * $.payload.functions.text.parameters.properties.*
- *
- * @author briqt
  */
 public class SparkRequestFunctionProperty implements Serializable {
 

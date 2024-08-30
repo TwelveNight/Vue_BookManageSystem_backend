@@ -20,9 +20,6 @@ import java.util.List;
 
 /**
  * 删除用户调用AI模型的无效回复
- *
- * @author <a href="https://github.com/luoye6">程序员小白条</a>
- * 
  */
 // todo 取消 @Component 注释开启任务
 // 程序启动时执行一次，然后每隔1天自动执行定时任务

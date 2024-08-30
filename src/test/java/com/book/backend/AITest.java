@@ -31,10 +31,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 
-/**
- * @author <a href="https://github.com/luoye6">小白条
- * @from <a href="https://luoye6.github.io/"> 个人博客
- */
+
 @SpringBootTest
 public class AITest {
 

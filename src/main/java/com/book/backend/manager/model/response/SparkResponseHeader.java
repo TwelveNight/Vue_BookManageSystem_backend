@@ -4,8 +4,6 @@ import java.io.Serializable;
 
 /**
  * $.header
- *
- * @author briqt
  */
 public class SparkResponseHeader implements Serializable {
     private static final long serialVersionUID = -2828057068263022569L;

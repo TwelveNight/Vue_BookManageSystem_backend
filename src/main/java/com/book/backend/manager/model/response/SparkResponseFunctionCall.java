@@ -10,9 +10,6 @@ import java.util.Map;
 
 /**
  * SparkResponseFunctionCall
- *
- * @author briqt
- * @date 2023/11/25
  */
 public class SparkResponseFunctionCall implements Serializable {
     private static final long serialVersionUID = -1586729944571910329L;

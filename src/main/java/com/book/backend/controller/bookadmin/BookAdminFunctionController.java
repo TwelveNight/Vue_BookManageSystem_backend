@@ -14,9 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 
-/**
- * @author 程序员小白条
- */
+
 @RestController
 @RequestMapping("/bookadmin")
 public class BookAdminFunctionController {

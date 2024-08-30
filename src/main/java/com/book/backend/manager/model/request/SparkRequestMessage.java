@@ -8,8 +8,6 @@ import java.util.List;
 
 /**
  * $.payload.message
- *
- * @author briqt
  */
 public class SparkRequestMessage implements Serializable {
     private static final long serialVersionUID = 6725091574720504980L;

@@ -1,9 +1,5 @@
 package com.book.backend.config;
 
-/**
- * @author <a href="https://github.com/luoye6">小白条
- * @from <a href="https://luoye6.github.io/"> 个人博客
- */
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

@@ -5,8 +5,6 @@ import com.book.backend.manager.constant.SparkErrorCode;
 
 /**
  * SparkException
- *
- * @author briqt
  */
 public class SparkException extends RuntimeException {
 

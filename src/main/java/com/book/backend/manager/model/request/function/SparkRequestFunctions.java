@@ -5,8 +5,6 @@ import java.util.List;
 
 /**
  * $.payload.functions
- *
- * @author briqt
  */
 public class SparkRequestFunctions implements Serializable {
 

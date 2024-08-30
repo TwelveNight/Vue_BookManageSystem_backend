@@ -9,8 +9,6 @@ import java.io.Serializable;
 
 /**
  * SparkTextChatResponse
- *
- * @author briqt
  */
 public class SparkSyncChatResponse implements Serializable {
     private static final long serialVersionUID = -6785055441385392782L;

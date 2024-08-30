@@ -5,8 +5,6 @@ import java.util.Map;
 
 /**
  * SparkErrorCode
- *
- * @author briqt
  */
 public class SparkErrorCode {
     public static final Map<Integer, String> RESPONSE_ERROR_MAP = new LinkedHashMap<>(32);
